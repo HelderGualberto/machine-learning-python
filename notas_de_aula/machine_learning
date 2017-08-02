@@ -1,0 +1,15 @@
+
+Tipos de aprendizado:
+
+Aprendizado supervisionado:
+
+Baseia-se em dados cujo o resultado é conhecido. Tem-se rótulos que indicam a saída dos dados. O pré treinamento é baseado em dados cuja o resultado já é conhecido. 
+O aprendizado supervisionado pode ser de dois tipos: regressão e classificação, pode ser usado para predição também.
+
+Aprendizado não-supervisionado:
+
+É baseado em dados aleatórios dos quais não se tem conhecimento da informação de saída. É utilizado para classificar e agrupar um conjunto de dados de acordo com a similaridade entre seus atributos.
+
+Aprendizado semi-supervisionado:
+
+Utiliza-se dataset de treinamento com dados rotulados e não rotulados.
